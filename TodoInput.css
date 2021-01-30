@@ -1,0 +1,22 @@
+.todoinput{
+   
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+
+}
+
+.todoinput__addbutton{
+    color: blue !important;
+    padding-left: 10px !important;
+}
+.todoinput__addbutton:hover{
+    background-color: blue !important;
+    color: whitesmoke !important;
+}
+.todo__required{
+    color: red;
+    display: flex;
+    align-items: center;
+    padding: 10px;
+}
